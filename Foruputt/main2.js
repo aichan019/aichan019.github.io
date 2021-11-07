@@ -81,7 +81,7 @@ function start() {
                                                                                                                                                                                             .then((result) => {
                                                                                                                                                                                                 Swal.fire({
                                                                                                                                                                                                     title: 'Dara Putri Lestari',
-                                                                                                                                                                                                    imageUrl: '/2.jpg',
+                                                                                                                                                                                                    imageUrl: '2.jpg',
                                                                                                                                                                                                     imageWidth: 450,
                                                                                                                                                                                                     imageHeight: 300,
                                                                                                                                                                                                     confirmButtonText: 'Next',
@@ -97,7 +97,7 @@ function start() {
                                                                                                                                                                                                     })
                                                                                                                                                                                                     .then((result) => {
                                                                                                                                                                                                         Swal.fire({
-                                                                                                                                                                                                            imageUrl: '/1.jpg',
+                                                                                                                                                                                                            imageUrl: '1.jpg',
                                                                                                                                                                                                             imageWidth: 450,
                                                                                                                                                                                                             imageHeight: 300,
                                                                                                                                                                                                         })
