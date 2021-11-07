@@ -1,0 +1,19 @@
+/* font-family: 'Gaegu', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FF9292;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+  }
+
+.h1p{
+    font-size: 2rem;
+}
