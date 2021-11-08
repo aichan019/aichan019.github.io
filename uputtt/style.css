@@ -1,0 +1,30 @@
+/* font-family: 'Gaegu', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: hsla(31, 90%, 76%, 1);
+
+    background: hsla(20, 100%, 89%, 1);
+
+    background: linear-gradient(315deg, hsla(20, 100%, 89%, 1) 0%, hsla(0, 100%, 84%, 1) 100%);
+    
+    background: -moz-linear-gradient(315deg, hsla(20, 100%, 89%, 1) 0%, hsla(0, 100%, 84%, 1) 100%);
+    
+    background: -webkit-linear-gradient(315deg, hsla(20, 100%, 89%, 1) 0%, hsla(0, 100%, 84%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFDAC7", endColorstr="#FFADAD", GradientType=1 );
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+  }
+
+.h1p{
+    font-size: 2rem;
+}
