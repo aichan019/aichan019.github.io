@@ -97,7 +97,7 @@ function start() {
                                                                                                                                                                                                     })
                                                                                                                                                                                                     .then((result) => {
                                                                                                                                                                                                         Swal.fire({
-                                                                                                                                                                                                            imageUrl: '1.jpg',
+                                                                                                                                                                                                            imageUrl: '1.JPG',
                                                                                                                                                                                                             imageWidth: 450,
                                                                                                                                                                                                             imageHeight: 300,
                                                                                                                                                                                                         })
